@@ -1,0 +1,10 @@
+Types of learning that you must be familiar with as a machine learning practitioner are:
+
+1. Supervised Machine Learning-Supervised learning is a machine learning paradigm where the model is trained using a labeled dataset.
+Each training sample has an input (X) and a corresponding correct output (Y).
+The goal is to learn a mapping function f : X → Y so that the model can predict outputs for unseen inputs.
+
+
+2. Semi-supervised Learning-
+3. Unsupervised Learning
+4. Reinforcement Learning

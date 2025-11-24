@@ -1,0 +1,35 @@
+Examples of Unsupervised Learning
+1. Customer Segmentation
+
+E-commerce websites like Amazon group customers to offer personalized recommendations.
+
+2. Spam or Fraud Detection
+
+Banks such as HDFC Bank detect unusual patterns in transactions.
+
+3. Face Recognition Clustering
+
+Apps like Google Photos automatically group similar faces.
+
+4. Document Topic Grouping
+
+News platforms like BBC News automatically categorize thousands of articles.
+
+5. Product Recommendations
+
+Stores like Walmart find product combinations frequently bought together.
+
+Clustering
+
+K-Means is an unsupervised learning algorithm used to cluster (group) data into K distinct groups based on similarity.
+
+It tries to:
+
+Find K cluster centers (called centroids)
+
+Assign each data point to the nearest centroid
+
+Objective:
+Minimize the intra-cluster distance (points inside cluster are similar).
+
+

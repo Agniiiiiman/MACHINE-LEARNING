@@ -1,0 +1,77 @@
+1. Real-life examples of supervised learning
+
+
+
+A. Classification – real-life examples
+
+1.Email Spam Detection
+
+* Input (X): Features extracted from email text:
+
+Number of suspicious words (“win”, “free”, “prize”)
+
+Presence of attachments
+
+Sender’s domain, etc.
+
+*Output (Y): “Spam” or “Not Spam”
+
+Model learns: Patterns of emails that are usually spam.
+
+2.Credit Card Fraud Detection
+
+*Input (X): Transaction amount, location, time, device used, user’s past behavior.
+
+*Output (Y): “Fraud” or “Legit”
+
+Model learns: What kind of transactions are abnormal compared to normal user behavior.
+
+3.Disease Diagnosis from Medical Test Results
+
+Input (X): Patient parameters like blood pressure, sugar level, age, cholesterol.
+
+Output (Y): Disease present / not present (e.g., “Diabetic” or “Non-diabetic”).
+
+Model learns: Which combination of values indicates a disease.
+
+4.Image-based Object Recognition
+
+Input (X): Pixel values of an image (e.g., 28×28 grayscale image → 784 features).
+
+Output (Y): Class label like “cat”, “dog”, “car”, etc.
+
+Model learns: Visual patterns for each object class.
+
+B. Regression – real-life examples
+
+1.House Price Prediction
+
+Input (X): Area (sq ft), number of bedrooms, location, age of house.
+
+Output (Y): House price (continuous value).
+
+Model learns: Relationship between features and price.
+
+2.Stock Price Prediction
+
+Input (X): Past prices, volume, technical indicators.
+
+Output (Y): Future price or return (numeric).
+
+Model learns: Trends/patterns in price movement.
+
+3.Demand Forecasting for a Product
+
+Input (X): Month, season, marketing spend, past sales.
+
+Output (Y): Expected sales quantity.
+
+Model learns: How demand varies with time and marketing.
+
+4.Salary Prediction
+
+Input (X): Years of experience, education level, job role, location.
+
+Output (Y): Expected salary.
+
+Model learns: How these factors affect salary.

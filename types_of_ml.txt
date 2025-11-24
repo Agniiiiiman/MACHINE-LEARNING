@@ -6,5 +6,38 @@ The goal is to learn a mapping function f : X → Y so that the model can predic
 
 
 2. Semi-supervised Learning-
-3. Unsupervised Learning
+
+
+3. Unsupervised Learning-
+     Unsupervised Learning is a Machine Learning approach where the dataset has no labels.
+The model tries to discover patterns, grouping, or structures on its own.
+* provide input data (X), no output (y).
+          A. Clustering-Grouping similar data points.
+Examples:
+Customer segmentation in marketing
+Grouping news articles by topic
+Image grouping based on similarity
+
+Most common algorithms:K-Means Clustering,Hierarchical Clustering,DBSCAN
+
+            B. Dimensionality Reduction
+
+Reducing the number of features while keeping important information.
+
+Examples:
+Compressing images
+Visualizing high-dimensional data
+Speeding up ML models
+
+Common algorithms:PCA (Principal Component Analysis)
+
+      C. Association Rule Learning-Finding patterns in data (market basket analysis).
+
+Examples:
+Amazon “Frequently Bought Together”
+Retail store product combinations
+
+Common algorithms:Apriori,FP-Growth,t-SNE   
+        
+
 4. Reinforcement Learning
